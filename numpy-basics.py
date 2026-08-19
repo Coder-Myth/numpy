@@ -7,3 +7,6 @@ import numpy as np
 # 20/330
 
 a = np.arange(1,22)
+
+
+print(a)
