@@ -6,4 +6,4 @@ import numpy as np
 # 25/330
 # 20/330
 
-a = np.arange(1)
+a = np.arange(1,22)
