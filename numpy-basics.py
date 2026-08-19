@@ -15,6 +15,8 @@ matrix = np.array([[1,2,3],
                 [4,5]])
 print(matrix) 
 
+tensor = np.array([[1,2,3],
+              
 
 a = np.arange(1,22,3)#start , end ,jump
 
