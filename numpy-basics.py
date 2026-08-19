@@ -6,6 +6,13 @@ import numpy as np
 # 25/330
 # 20/330
 
+# Vector , Matrix , Tensor
+
+vector = np.array([1,2,3,4,5])
+print(vector)
+
+
+
 a = np.arange(1,22,3)#start , end ,jump
 
 print(a)
