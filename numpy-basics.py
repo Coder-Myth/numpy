@@ -5,3 +5,5 @@ import numpy as np
 # quilfia
 # 25/330
 # 20/330
+
+a = np.a
