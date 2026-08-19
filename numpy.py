@@ -1,4 +1,4 @@
-import numpy 
+import numpy as 
 
 # yob
 # 15/260
