@@ -1,0 +1,49 @@
+================================================================
+                        INTRODUCTION
+                - Introduction to the series
+               - Prerequisites for the series
+================================================================
+
+------------------------------------------------
+PHASE 1 - NumPy Foundations (phase-1.ipynb)
+------------------------------------------------
+- NumPy array basics
+- Creating arrays from a list
+- List vs NumPy array (performance/behavior differences)
+- Creating arrays from scratch (zeros, ones, arange, etc.)
+- Vector, Matrix, and Tensor
+- Array properties (shape, dtype, ndim, size, etc.)
+- Array reshaping
+
+------------------------------------------------
+PHASE 2 - Array Operations (phase2.ipynb)
+------------------------------------------------
+- NumPy array operations (arithmetic/element-wise ops)
+- Sorting arrays
+- Filtering arrays
+- Filtering with a boolean mask
+- Fancy indexing vs np.where()
+- Adding and removing data from arrays
+- Array compatibility (broadcasting rules)
+
+------------------------------------------------
+PHASE 3 - Advanced Operations with Business Examples (phase3.ipynb)
+------------------------------------------------
+- Working with multi-dimensional business/sales data
+- Aggregations along axes: sum, min, max per row/column
+- Cumulative sum (cumsum) and visualization with matplotlib
+- Vector operations: addition, multiplication, dot product
+- Computing angle between vectors (using arccos and norm)
+- Vectorized string operations (np.vectorize)
+- Element-wise division for computing averages (e.g., monthly averages)
+
+------------------------------------------------
+PHASE 4 - Saving, Loading & Working with Image-like Data (phase4.ipynb)
+------------------------------------------------
+- Creating arrays (random, zeros, etc.)
+- Saving arrays to disk (np.save, .npy files)
+- Loading arrays from disk (np.load)
+- Visualizing array data as images with matplotlib (imshow)
+- Basic image manipulation using array operations (e.g., inverting colors)
+
+================================================================
